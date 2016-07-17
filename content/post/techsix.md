@@ -4,7 +4,6 @@ Description = "Tech Six"
 date = "2016-05-23T21:52:37-04:00"
 draft = "true"
 title = "AshTop5Tech #6"
-slug = "ashtop5tech-6"
 Categories = ["Development", "GoLang"]
 Tags = ["Development", "golang","SWIFT","google","Viv","Siri","Alexa","Echo","Amazon","Bitcoin",'AI',"DeepMind"]
 share = "true"
