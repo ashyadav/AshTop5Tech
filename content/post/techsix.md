@@ -2,8 +2,9 @@
 author =""
 Description = "Tech Six"
 date = "2016-05-23T21:52:37-04:00"
-draft = "true"
-title = "AshTop5Tech #6"
+draft = "false"
+title = "AshTop5Tech #6 - Parsey McParseface"
+image = "images/boatymcboatface.jpg"
 Categories = ["Development", "GoLang"]
 Tags = ["Development", "golang","SWIFT","google","Viv","Siri","Alexa","Echo","Amazon","Bitcoin",'AI',"DeepMind"]
 share = "true"

@@ -4,7 +4,8 @@ Description = ""
 Tags = ["Technology", "go", "Deepmind", "applewatch", "interface", "email", "doodling", "hoverbike"]
 date = "2016-05-08T23:40:30-04:00"
 menu = "main"
-title = "AshTop5Tech #5"
+title = "AshTop5Tech #5 Deepmind & Go"
+image = "images/go.jpg"
 # image = "/static/images/hoverbike.jpg"
 +++
 

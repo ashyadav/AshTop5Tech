@@ -4,7 +4,8 @@ Description = ""
 Tags = ["autonomous","AI", "applewatch", "drone", "android", "drone"]
 date = "2016-05-01T22:34:52-04:00"
 menu = "main"
-title = "AshTop5Tech #4"
+title = "AshTop5Tech #4 - Driverless Trucks"
+image = "images/truck.jpg"
 
 +++
 
