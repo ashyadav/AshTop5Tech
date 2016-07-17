@@ -8,6 +8,11 @@ title = "AshTop5Tech #4"
 
 +++
 
+Driverless Trucks,  $79 Laptop,  Negotiaiting Salary, Fotokite,  Win95
+on Applewatch
+
+<!--more-->
+
 #### The driverless truck is coming, and it’s going to automate millions of jobs
 http://goo.gl/nygHZy
 

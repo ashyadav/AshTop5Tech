@@ -5,8 +5,11 @@ Tags = ["Technology", "go", "Deepmind", "applewatch", "interface", "email", "doo
 date = "2016-05-08T23:40:30-04:00"
 menu = "main"
 title = "AshTop5Tech #5"
-
+# image = "/static/images/hoverbike.jpg"
 +++
+
+Go - Deepmind, Skinterface, Email Habits, Doodling, HoverBike
+<!--more-->
 
 #### AI - Thoughts on Deepmind and Go
 
@@ -42,7 +45,7 @@ http://goo.gl/tpVvIb
 
 #### HoverBike
 
-
+![Hoverbike image](/images/hoverbike.jpg)
 #drone #hoverbike
 You have to watch to see this crazy fun bike now where can I chase those stormtroopers.
 https://youtu.be/1ToBgypNwL4
