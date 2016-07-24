@@ -52,7 +52,8 @@ the next few weeks to see the impact if any.
 <https://goo.gl/MNOlPU>
 
 A deep learning algorithm developed by UC Berekley students is doing a
-decent job at colorizing photos. 
+decent job at colorizing photos. Click the link above to see some
+stunning results.
 
 ### VCs are betting on a chinese fitness boom
 <https://goo.gl/E1MkcI>
