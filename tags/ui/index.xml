@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Doodling on ashtech</title>
-    <link>https://ashyadav.github.com/ashtech/tags/doodling/</link>
-    <description>Recent content in Doodling on ashtech</description>
+    <title>Ui on ashtech</title>
+    <link>https://ashyadav.github.com/ashtech/tags/ui/</link>
+    <description>Recent content in Ui on ashtech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <copyright>All rights reserved - 2016</copyright>
     <lastBuildDate>Sun, 08 May 2016 23:40:30 -0400</lastBuildDate>
-    <atom:link href="https://ashyadav.github.com/ashtech/tags/doodling/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ashyadav.github.com/ashtech/tags/ui/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AshTech #5 Deepmind &amp; Go</title>
