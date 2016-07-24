@@ -12,10 +12,10 @@ canonifyurls = false
   cover = "images/tbd.jpg"
   author = "Ash Yadav"
   authorlocation = "NewYork, USA"
-  authorwebsite = "http://ash.zzzz.io."
+  authorwebsite = "http://ashyadav.github.io/ashtech/"
   bio= "my bio"
   # logo = "images/logo.png"
-  googleAnalyticsUserID = "XX-79101-12"
+  googleAnalyticsUserID = "UA-5071943-6"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   #RSSLink = "http://feeds.feedburner.com/..." 
   #githubName = "ashyadav"
