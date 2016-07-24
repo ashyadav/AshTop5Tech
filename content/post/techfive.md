@@ -1,12 +1,12 @@
 +++
 Categories = ["Development", "AI", "go", "singularity", "interface", "smartwatch", ]
 Description = ""
-Tags = ["Technology", "go", "Deepmind", "applewatch", "interface", "email", "doodling", "hoverbike"]
+Tags = ["AI", "GO", "Deepmind", "applewatch", "UI", "email", "doodling", "hoverbike"]
 date = "2016-05-08T23:40:30-04:00"
-menu = "main"
-title = "AshTop5Tech #5 Deepmind & Go"
+menu = ""
+title = "AshTech #5 Deepmind & Go"
 image = "images/go.jpg"
-# image = "/static/images/hoverbike.jpg"
+
 +++
 
 Go - Deepmind, Skinterface, Email Habits, Doodling, HoverBike

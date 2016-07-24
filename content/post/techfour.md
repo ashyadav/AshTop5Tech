@@ -1,10 +1,11 @@
 +++
 Categories = ["autonomous", "AI", "android", "salary", "drone", "applewatch" ]
 Description = ""
-Tags = ["autonomous","AI", "applewatch", "drone", "android", "drone"]
+Tags = ["autonomous","AI", "applewatch", "drone", "android", "drone",
+"employment" ]
 date = "2016-05-01T22:34:52-04:00"
-menu = "main"
-title = "AshTop5Tech #4 - Driverless Trucks"
+menu = ""
+title = "AshTech #4 - Driverless Trucks"
 image = "images/truck.jpg"
 
 +++

@@ -8,7 +8,7 @@ menu = ""
 share = true
 #slug = "post-title"
 tags = ["pokemon", "datamining", "bitcoin", "deeplearning", "china" ]
-title = "AshTop5Tech #7 - Pokemon Go"
+title = "AshTech #7 - Pokemon Go"
 
 +++
 
