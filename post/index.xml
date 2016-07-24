@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ashtech</title>
-    <link>https://ashyadav.github.com/ashtech/post/</link>
+    <link>https://ashyadav.github.com/post/</link>
     <description>Recent content in Posts on ashtech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <copyright>All rights reserved - 2016</copyright>
     <lastBuildDate>Sat, 16 Jul 2016 23:37:56 -0400</lastBuildDate>
-    <atom:link href="https://ashyadav.github.com/ashtech/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ashyadav.github.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AshTop5Tech #7 - Pokemon Go</title>
-      <link>https://ashyadav.github.com/ashtech/post/techseven/</link>
+      <link>https://ashyadav.github.com/post/techseven/</link>
       <pubDate>Sat, 16 Jul 2016 23:37:56 -0400</pubDate>
       
-      <guid>https://ashyadav.github.com/ashtech/post/techseven/</guid>
+      <guid>https://ashyadav.github.com/post/techseven/</guid>
       <description>
 
 &lt;p&gt;Pokemon Go, Story Arcs, Bitcoin Halving,  AI photo coloring, China
@@ -72,10 +72,10 @@ note. I suspect Apple and Fitbit have their eyes on this one too.&lt;/p&gt;
     
     <item>
       <title>AshTop5Tech #6 - Parsey McParseface</title>
-      <link>https://ashyadav.github.com/ashtech/post/techsix/</link>
+      <link>https://ashyadav.github.com/post/techsix/</link>
       <pubDate>Mon, 23 May 2016 21:52:37 -0400</pubDate>
       
-      <guid>https://ashyadav.github.com/ashtech/post/techsix/</guid>
+      <guid>https://ashyadav.github.com/post/techsix/</guid>
       <description>
 
 &lt;p&gt;SWIFT, Eye Computer, VIV, Bitcoin, Parsey McPareface&lt;/p&gt;
@@ -121,10 +121,10 @@ Please stand up, please stand up?&lt;/p&gt;
     
     <item>
       <title>AshTop5Tech #5 Deepmind &amp; Go</title>
-      <link>https://ashyadav.github.com/ashtech/post/techfive/</link>
+      <link>https://ashyadav.github.com/post/techfive/</link>
       <pubDate>Sun, 08 May 2016 23:40:30 -0400</pubDate>
       
-      <guid>https://ashyadav.github.com/ashtech/post/techfive/</guid>
+      <guid>https://ashyadav.github.com/post/techfive/</guid>
       <description>
 
 &lt;p&gt;Go - Deepmind, Skinterface, Email Habits, Doodling, HoverBike&lt;/p&gt;
@@ -158,7 +158,7 @@ As a parent of a doodler I was fascinated to learn how doodling enhances memory,
 
 &lt;h4 id=&#34;hoverbike:4e4768de6f4135f2744c796a1d565640&#34;&gt;HoverBike&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ashyadav.github.com/ashtech/images/hoverbike.jpg&#34; alt=&#34;Hoverbike image&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://ashyadav.github.com/images/hoverbike.jpg&#34; alt=&#34;Hoverbike image&#34; /&gt;
 #drone #hoverbike
 You have to watch to see this crazy fun bike now where can I chase those stormtroopers.
 &lt;a href=&#34;https://youtu.be/1ToBgypNwL4&#34;&gt;https://youtu.be/1ToBgypNwL4&lt;/a&gt;
@@ -168,10 +168,10 @@ You have to watch to see this crazy fun bike now where can I chase those stormtr
     
     <item>
       <title>AshTop5Tech #4 - Driverless Trucks</title>
-      <link>https://ashyadav.github.com/ashtech/post/techfour/</link>
+      <link>https://ashyadav.github.com/post/techfour/</link>
       <pubDate>Sun, 01 May 2016 22:34:52 -0400</pubDate>
       
-      <guid>https://ashyadav.github.com/ashtech/post/techfour/</guid>
+      <guid>https://ashyadav.github.com/post/techfour/</guid>
       <description>
 
 &lt;p&gt;Driverless Trucks,  $79 Laptop,  Negotiaiting Salary, Fotokite,  Win95
@@ -208,10 +208,10 @@ OS to install in your slow running old PCs and laptops. A Chinese manufacturer w
     
     <item>
       <title>welcome</title>
-      <link>https://ashyadav.github.com/ashtech/post/welcome/</link>
+      <link>https://ashyadav.github.com/post/welcome/</link>
       <pubDate>Sat, 30 Apr 2016 12:02:07 -0400</pubDate>
       
-      <guid>https://ashyadav.github.com/ashtech/post/welcome/</guid>
+      <guid>https://ashyadav.github.com/post/welcome/</guid>
       <description>&lt;p&gt;Lorem Ipsum&lt;/p&gt;
 </description>
     </item>
