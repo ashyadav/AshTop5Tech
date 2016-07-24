@@ -6,7 +6,7 @@ paginate = 5
 #DisqusShortname = "YOUR_SHORT_NAME_HERE"
 Copyright = "All rights reserved - 2016"
 canonifyurls = false
-
+relativeURLs = true
 
 [params]
   description = "Tech stuff you need to know"
