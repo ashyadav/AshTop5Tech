@@ -9,7 +9,7 @@ canonifyurls = false
 
 [params]
   description = "Tech stuff you need to know"
-  cover = "images/tbd.jpg"
+  # cover = "images/tbd.jpg"
   author = "Ash Yadav"
   authorlocation = "NewYork, USA"
   authorwebsite = "http://ashyadav.github.io/ashtech/"
@@ -18,7 +18,7 @@ canonifyurls = false
   googleAnalyticsUserID = "UA-5071943-6"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   #RSSLink = "http://feeds.feedburner.com/..." 
-  #githubName = "ashyadav"
+  githubName = "ashyadav"
   twitterName = "ashyadav"
   facebookName = "ashyadav"
   linkedinName = "ashyadav"
