@@ -7,7 +7,6 @@ type = "about"
 weight = -190
 
 +++
-This is the about page
 Thanks for dropping by my page on interwebs.
 
 For those of you that know me know about my passion for all things
