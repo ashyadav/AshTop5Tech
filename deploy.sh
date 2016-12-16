@@ -17,4 +17,4 @@ if [ $# -eq 1 ]
 
     # Push source and build repos.
     git push origin master
-    git subtree push --prefix=public git@github.com:ashyadav/ashtech.git gh-pages
+    git subtree push --prefix=public https://github.com/ashyadav/ashtech.git gh-pages
