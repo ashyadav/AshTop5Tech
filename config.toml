@@ -1,7 +1,8 @@
-baseUrl= "https://ashyadav.github.io/ashtech/"
-LanguageCode= "en-EN"
+
+baseurl = "https://ashyadav.github.io/ashtech/"
+LanguageCode = "en-EN"
 theme = "casper"
-Title= "ashtech"
+Title = "ashtech"
 paginate = 5
 #DisqusShortname = "YOUR_SHORT_NAME_HERE"
 Copyright = "All rights reserved - 2016"
@@ -17,7 +18,7 @@ canonifyurls = false
   # logo = "images/logo.png"
   googleAnalyticsUserID = "UA-5071943-6"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  #RSSLink = "http://feeds.feedburner.com/..." 
+  #RSSLink = "http://feeds.feedburner.com/..."
   githubName = "ashyadav"
   twitterName = "ashyadav"
   facebookName = "ashyadav"
