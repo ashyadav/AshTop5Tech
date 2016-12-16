@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deepmind on ashtech</title>
-    <link>https://ashyadav.github.io/ashtech/tags/deepmind/</link>
-    <description>Recent content in Deepmind on ashtech</description>
+    <title>ashtech</title>
+    <link>https://ashyadav.github.io/ashtech/tags/deepmind/index.xml</link>
+    <description>Recent content on ashtech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <copyright>All rights reserved - 2016</copyright>
-    <lastBuildDate>Mon, 23 May 2016 21:52:37 -0400</lastBuildDate>
     <atom:link href="https://ashyadav.github.io/ashtech/tags/deepmind/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -16,29 +15,28 @@
       <pubDate>Mon, 23 May 2016 21:52:37 -0400</pubDate>
       
       <guid>https://ashyadav.github.io/ashtech/post/techsix/</guid>
-      <description>
+      <description>&lt;p&gt;SWIFT, Eye Computer, VIV, Bitcoin, Parsey McPareface
+&lt;/p&gt;
 
-&lt;p&gt;SWIFT, Eye Computer, VIV, Bitcoin, Parsey McPareface&lt;/p&gt;
-
-&lt;h4 id=&#34;another-swift-attack:b2b61fc48fbebe9d570f15a2a61d96bd&#34;&gt;Another SWIFT Attack&lt;/h4&gt;
+&lt;h4 id=&#34;another-swift-attack&#34;&gt;Another SWIFT Attack&lt;/h4&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://goo.gl/n3pPaH&#34;&gt;http://goo.gl/n3pPaH&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The SWIFT interbank network that  handles money transfers between bank has seen its second major hack attack.  SWIFT is the primary way banks move billions of dollars to other banks daily. The hack spreads malware using a pdf reader software and bears code signatures similar to the Sony hack and the recent attack on the Bangladesh Central Bank. So if you work at a bank and are reading swift message via a pdf reader make sure its not infected and stay vigilant.&lt;/p&gt;
 
-&lt;h4 id=&#34;a-computer-in-your-eye:b2b61fc48fbebe9d570f15a2a61d96bd&#34;&gt;A computer in your eye&lt;/h4&gt;
+&lt;h4 id=&#34;a-computer-in-your-eye&#34;&gt;A computer in your eye&lt;/h4&gt;
 
 &lt;p&gt;(&lt;a href=&#34;http://goo.gl/5ZHy4G&#34;&gt;http://goo.gl/5ZHy4G&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;Google glass was a stepping stone to the next gen devices google is dreaming up. Not content with the public rejection of google glass the company continues to push the envelope on a wearable computer. It latest vision via a patent filing is to implant one directly into your eyeball.  Once injected the device would be powered by an energy harvesting antenna. The device can transmit  signals like GPS, NFC, LTE. Will it be able to interact with the optic nerve and beam signals directly to the neo cortex is still unknown.&lt;/p&gt;
 
-&lt;h4 id=&#34;viv-conversation-as-a-platform-caap:b2b61fc48fbebe9d570f15a2a61d96bd&#34;&gt;Viv - Conversation as a platform CAAP&lt;/h4&gt;
+&lt;h4 id=&#34;viv-conversation-as-a-platform-caap&#34;&gt;Viv - Conversation as a platform CAAP&lt;/h4&gt;
 
 &lt;p&gt;(&lt;a href=&#34;http://goo.gl/wDLp5H&#34;&gt;http://goo.gl/wDLp5H&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;A new conversational bot named Viv was unveiled  last week by the creators of Siri. Viv promises to be the bridge between the apps on your device. You could ask Viv to order some flowers for mom or the temperature at the golden gate bridge at 7pm. You could even ask it to send some money to your friends. The AI assistant would be social graph and service aware to make the autonomous decisions for you. Will Viv be a radical change or just another bot that is gobbled up  by Siri, Cortana or Ok Google&lt;/p&gt;
 
-&lt;h3 id=&#34;will-the-real-satoshi-nakamato-please-stand-up:b2b61fc48fbebe9d570f15a2a61d96bd&#34;&gt;Will the real Satoshi Nakamato please stand up &amp;hellip;&lt;/h3&gt;
+&lt;h3 id=&#34;will-the-real-satoshi-nakamato-please-stand-up&#34;&gt;Will the real Satoshi Nakamato please stand up &amp;hellip;&lt;/h3&gt;
 
 &lt;p&gt;(&lt;a href=&#34;https://goo.gl/kCy4Vh&#34;&gt;https://goo.gl/kCy4Vh&lt;/a&gt;)&lt;/p&gt;
 
@@ -51,12 +49,11 @@ So won&amp;rsquo;t the real Slim Shady please stand up,
 Please stand up, please stand up?&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&#34;parsey-mcparseface:b2b61fc48fbebe9d570f15a2a61d96bd&#34;&gt;Parsey McParseface&lt;/h4&gt;
+&lt;h4 id=&#34;parsey-mcparseface&#34;&gt;Parsey McParseface&lt;/h4&gt;
 
 &lt;p&gt;(&lt;a href=&#34;http://goo.gl/dxd3ih&#34;&gt;http://goo.gl/dxd3ih&lt;/a&gt;)&lt;/p&gt;
 
-&lt;p&gt;Google this week open sourced its natural language parser. This will enable smarter applications that one can communicate with using natural language. This should make chatbots smarter. The parser SyntaxNet is a Neural network built on googles macdhine learning framework Tensor Flow.&lt;/p&gt;
-</description>
+&lt;p&gt;Google this week open sourced its natural language parser. This will enable smarter applications that one can communicate with using natural language. This should make chatbots smarter. The parser SyntaxNet is a Neural network built on googles macdhine learning framework Tensor Flow.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -65,17 +62,16 @@ Please stand up, please stand up?&lt;/p&gt;
       <pubDate>Sun, 08 May 2016 23:40:30 -0400</pubDate>
       
       <guid>https://ashyadav.github.io/ashtech/post/techfive/</guid>
-      <description>
+      <description>&lt;p&gt;Go - Deepmind, Skinterface, Email Habits, Doodling, HoverBike
+&lt;/p&gt;
 
-&lt;p&gt;Go - Deepmind, Skinterface, Email Habits, Doodling, HoverBike&lt;/p&gt;
-
-&lt;h4 id=&#34;ai-thoughts-on-deepmind-and-go:4e4768de6f4135f2744c796a1d565640&#34;&gt;AI - Thoughts on Deepmind and Go&lt;/h4&gt;
+&lt;h4 id=&#34;ai-thoughts-on-deepmind-and-go&#34;&gt;AI - Thoughts on Deepmind and Go&lt;/h4&gt;
 
 &lt;p&gt;#AI #go #deepmind #singularity&lt;/p&gt;
 
 &lt;p&gt;The machines are winning. The recent win of Google&amp;rsquo;s Deepmind AI at laying Go is a major step in Machine Learning.  Go is an abstract strategy board game for two players, in which the aim is to surround more territory than the opponent. The game has long been the holy grail of the AI geeks to find. Recently  Google&amp;rsquo;s DeepMind AI defeated Go Grandmaster Lee Se Dol 4-1.  This is clearly a triumph of the advances in artificial Intelligence and deep learning.  In Game 3 Deepmind played a move that no human has ever made. Here in lies the hope that AI will bring to humanity. It will enable us to see things that we have not yet dreamt of and help us look beyond our imagination. So heres looking to the beginning of a beautiful friendship humanity+ai&lt;/p&gt;
 
-&lt;h4 id=&#34;skinterface:4e4768de6f4135f2744c796a1d565640&#34;&gt;Skinterface&lt;/h4&gt;
+&lt;h4 id=&#34;skinterface&#34;&gt;Skinterface&lt;/h4&gt;
 
 &lt;p&gt;#interface #applewatch #smartwatch #androidwear&lt;/p&gt;
 
@@ -83,27 +79,26 @@ Please stand up, please stand up?&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://goo.gl/OaJxAK&#34;&gt;Video Demo&lt;/a&gt;&lt;/p&gt;
 
-&lt;h4 id=&#34;email-habits:4e4768de6f4135f2744c796a1d565640&#34;&gt;Email habits&lt;/h4&gt;
+&lt;h4 id=&#34;email-habits&#34;&gt;Email habits&lt;/h4&gt;
 
 &lt;p&gt;#email&lt;/p&gt;
 
 &lt;p&gt;Some great tips from the C-suite on dealing with your daily email deluge.
 &lt;a href=&#34;http://goo.gl/Om3Zt8&#34;&gt;http://goo.gl/Om3Zt8&lt;/a&gt;&lt;/p&gt;
 
-&lt;h4 id=&#34;doodling:4e4768de6f4135f2744c796a1d565640&#34;&gt;Doodling&lt;/h4&gt;
+&lt;h4 id=&#34;doodling&#34;&gt;Doodling&lt;/h4&gt;
 
 &lt;p&gt;#art #doodle
 As a parent of a doodler I was fascinated to learn how doodling enhances memory, recall and understanding of the subject matter. Maybe that is why when whiteboard my meetings I enjoy them better .
 &lt;a href=&#34;http://goo.gl/tpVvIb&#34;&gt;http://goo.gl/tpVvIb&lt;/a&gt;&lt;/p&gt;
 
-&lt;h4 id=&#34;hoverbike:4e4768de6f4135f2744c796a1d565640&#34;&gt;HoverBike&lt;/h4&gt;
+&lt;h4 id=&#34;hoverbike&#34;&gt;HoverBike&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://ashyadav.github.io/ashtech/images/hoverbike.jpg&#34; alt=&#34;Hoverbike image&#34; /&gt;
 #drone #hoverbike
 You have to watch to see this crazy fun bike now where can I chase those stormtroopers.
 &lt;a href=&#34;https://youtu.be/1ToBgypNwL4&#34;&gt;https://youtu.be/1ToBgypNwL4&lt;/a&gt;
-&lt;a href=&#34;http://goo.gl/qnsfE1&#34;&gt;http://goo.gl/qnsfE1&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;a href=&#34;http://goo.gl/qnsfE1&#34;&gt;http://goo.gl/qnsfE1&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

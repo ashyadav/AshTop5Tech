@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>China on ashtech</title>
-    <link>https://ashyadav.github.io/ashtech/tags/china/</link>
-    <description>Recent content in China on ashtech</description>
+    <title>ashtech</title>
+    <link>https://ashyadav.github.io/ashtech/tags/china/index.xml</link>
+    <description>Recent content on ashtech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <copyright>All rights reserved - 2016</copyright>
-    <lastBuildDate>Sat, 16 Jul 2016 23:37:56 -0400</lastBuildDate>
     <atom:link href="https://ashyadav.github.io/ashtech/tags/china/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -16,12 +15,12 @@
       <pubDate>Sat, 16 Jul 2016 23:37:56 -0400</pubDate>
       
       <guid>https://ashyadav.github.io/ashtech/post/techseven/</guid>
-      <description>
-
-&lt;p&gt;Pokemon Go, Story Arcs, Bitcoin Halving,  AI photo coloring, China
+      <description>&lt;p&gt;Pokemon Go, Story Arcs, Bitcoin Halving,  AI photo coloring, China
 Fitness Boom&lt;/p&gt;
 
-&lt;h3 id=&#34;pokemon-go:f8794d860ed3d63f86a7352ab3d4dc48&#34;&gt;Pokemon Go&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;pokemon-go&#34;&gt;Pokemon Go&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://goo.gl/hTaCD3&#34;&gt;https://goo.gl/hTaCD3&lt;/a&gt;&lt;/p&gt;
 
@@ -35,7 +34,7 @@ Augmented reality experience and the game developers Niantic have done a
 very good job with it. This week it became the most downloaded app in a
 week on the ios app store. Gotta Catch em all !&lt;/p&gt;
 
-&lt;h3 id=&#34;six-basic-arcs-of-story-telling:f8794d860ed3d63f86a7352ab3d4dc48&#34;&gt;Six basic Arcs of story telling&lt;/h3&gt;
+&lt;h3 id=&#34;six-basic-arcs-of-story-telling&#34;&gt;Six basic Arcs of story telling&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://goo.gl/iOMJhW&#34;&gt;https://goo.gl/iOMJhW&lt;/a&gt;&lt;/p&gt;
 
@@ -45,7 +44,7 @@ in a lecture in 1995 and Aristotle spoke about similar arcs 2000 years
 ago. Its good to see that data mining is lending its voice to these
 theories.&lt;/p&gt;
 
-&lt;h3 id=&#34;bitcoin-miner-reward-is-cut-in-half:f8794d860ed3d63f86a7352ab3d4dc48&#34;&gt;Bitcoin Miner reward is cut in half&lt;/h3&gt;
+&lt;h3 id=&#34;bitcoin-miner-reward-is-cut-in-half&#34;&gt;Bitcoin Miner reward is cut in half&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://goo.gl/Srdihi&#34;&gt;http://goo.gl/Srdihi&lt;/a&gt;&lt;/p&gt;
 
@@ -55,7 +54,7 @@ feature  in bitcoin. It is only the second time that this has
 happened. It will  be interesting to keep an eye on the bitcoin price for
 the next few weeks to see the impact if any.&lt;/p&gt;
 
-&lt;h3 id=&#34;deep-learning-to-colorize-your-photos:f8794d860ed3d63f86a7352ab3d4dc48&#34;&gt;Deep Learning to colorize your photos&lt;/h3&gt;
+&lt;h3 id=&#34;deep-learning-to-colorize-your-photos&#34;&gt;Deep Learning to colorize your photos&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://goo.gl/MNOlPU&#34;&gt;https://goo.gl/MNOlPU&lt;/a&gt;&lt;/p&gt;
 
@@ -63,13 +62,12 @@ the next few weeks to see the impact if any.&lt;/p&gt;
 decent job at colorizing photos. Click the link above to see some
 stunning results.&lt;/p&gt;
 
-&lt;h3 id=&#34;vcs-are-betting-on-a-chinese-fitness-boom:f8794d860ed3d63f86a7352ab3d4dc48&#34;&gt;VCs are betting on a chinese fitness boom&lt;/h3&gt;
+&lt;h3 id=&#34;vcs-are-betting-on-a-chinese-fitness-boom&#34;&gt;VCs are betting on a chinese fitness boom&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://goo.gl/E1MkcI&#34;&gt;https://goo.gl/E1MkcI&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;365 million chinese  millenials are hitting the gym and VCs are taking
-note. I suspect Apple and Fitbit have their eyes on this mega market.&lt;/p&gt;
-</description>
+note. I suspect Apple and Fitbit have their eyes on this mega market.&lt;/p&gt;</description>
     </item>
     
   </channel>
