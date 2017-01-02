@@ -6,7 +6,7 @@ tags = [
   "bluetooth",
 ]
 draft = false
-title = "AshTech #9 Apple Airpods"
+title = "AshTech #9 - Apple Airpods"
 comments = false
 share = true
 date = "2017-01-01T21:18:46-05:00"
